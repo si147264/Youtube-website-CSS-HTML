@@ -60,7 +60,7 @@ button {
 }
 
 .video img {
-    width: 100%; /* Resmin container'ı doldurmasını sağlar */
+    width: 100%;
     height: auto;
 }
 
